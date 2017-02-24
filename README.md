@@ -1,3 +1,8 @@
+<p align="center">
+    <img height="128" width="128" src="https://github.com/JSSarajevo/assets/blob/master/logo/JSSarajevo-logo-128.png?raw=true">
+</p>
+
+
 # JS Sarajevo assets
 
 ### Short description
